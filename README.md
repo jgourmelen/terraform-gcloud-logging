@@ -14,4 +14,5 @@
     terraform apply -var-file="geek-my-job2.tfvars"
 
 
+NEEDS to follow : https://github.com/hashicorp/terraform/issues/15966
 
